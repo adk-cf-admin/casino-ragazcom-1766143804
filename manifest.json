@@ -1,0 +1,19 @@
+{
+  "name": "Casino Bad Ragaz",
+  "short_name": "Casino Bad Ragaz",
+  "theme_color": "",
+  "background_color": "#112445",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1766140735-favicon-wwwcasinoragazch.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
