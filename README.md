@@ -2,7 +2,7 @@
 
 
 
-Built on: 2025-12-19 11:30:06
+Built on: 2026-01-14 12:32:11
 
 Available languages:
 - de-CH
